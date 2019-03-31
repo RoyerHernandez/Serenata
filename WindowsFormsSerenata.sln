@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsSerenata", "WindowsFormsSerenata\WindowsFormsSerenata.csproj", "{0B0FED74-BA28-4D43-8687-891D098417B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "business", "business\business.csproj", "{AA1A7132-9093-49D1-9F67-58AB98CCFC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BE", "BE\BE.csproj", "{69DAA1C8-5F4F-45B0-8E4B-D96C4BAB3DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B0FED74-BA28-4D43-8687-891D098417B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B0FED74-BA28-4D43-8687-891D098417B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B0FED74-BA28-4D43-8687-891D098417B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1A7132-9093-49D1-9F67-58AB98CCFC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1A7132-9093-49D1-9F67-58AB98CCFC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1A7132-9093-49D1-9F67-58AB98CCFC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1A7132-9093-49D1-9F67-58AB98CCFC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DAA1C8-5F4F-45B0-8E4B-D96C4BAB3DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DAA1C8-5F4F-45B0-8E4B-D96C4BAB3DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DAA1C8-5F4F-45B0-8E4B-D96C4BAB3DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DAA1C8-5F4F-45B0-8E4B-D96C4BAB3DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
